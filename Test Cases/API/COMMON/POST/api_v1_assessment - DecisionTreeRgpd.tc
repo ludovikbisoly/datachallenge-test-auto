@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>api_v1_assessment - DecisionTreeRgpd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03c51326-ea1c-4a56-b712-2681bd620c22</testCaseGuid>
+</TestCaseEntity>

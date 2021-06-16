@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete FAQ request : /api/v1/faq/{faq_id}</description>
+   <name>api_v1_faq_faqid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c22e202-db0f-4b8d-8510-15fcfa91094d</testCaseGuid>
+</TestCaseEntity>

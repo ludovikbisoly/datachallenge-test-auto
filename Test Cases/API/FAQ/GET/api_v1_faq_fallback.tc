@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GET FAQ request : /api/v1/faq/fallback</description>
+   <name>api_v1_faq_fallback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffae3c0c-7418-4e3e-a8bb-0a6ecdd01816</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Read ALL FAQ request</description>
+   <name>api_v1_faq</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa384294-fb0a-4d01-8291-1957a24c3864</testCaseGuid>
+</TestCaseEntity>

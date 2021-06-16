@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>POST request</description>
+   <name>api_v1_completion-company-names</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7813494d-bd90-49bb-a937-e90f26b363ee</testCaseGuid>
+</TestCaseEntity>
