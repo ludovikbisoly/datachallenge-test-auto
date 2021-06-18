@@ -48,5 +48,5 @@ boolean PASSED = WS.verifyMatch(responseCode.toString(), '200', true)
 println('Response body: ' + response.getResponseText())
 String body_rep = response.getResponseText()
 
-print("Url after scrapping :: " + body_rep)
+print("Url found after scrapping :: " + body_rep)
 
