@@ -44,4 +44,9 @@
       <initValue>'https://slack.com/intl/fr-fr/'</initValue>
       <name>company_url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AZERTYUIOP777'</initValue>
+      <name>xrayMasterPass</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,82 @@
+{
+    "testsuitePath": "Test Suites/Xray/datachallenge-backend",
+    "testsuiteName": "datachallenge-backend",
+    "testExecutionKey": "DCL-503",
+    "testExecutionID": "64863",
+    "testExecutionLink": "https://ifsalpha.atlassian.net/browse/DCL-503",
+    "startDate": "2014-08-30T11:47:35+01:00",
+    "finishDate": "2014-08-30T11:53:00+01:00",
+    "testEnvironnement": [
+        
+    ],
+    "tests": [
+        {
+            "path": "Test Cases/API/CLAUSE/GET/api_v1_clause",
+            "name": "api_v1_clause",
+            "testKey": "DCL-498",
+            "xrayID": "64858",
+            "link": "https://ifsalpha.atlassian.net/browse/DCL-498",
+            "testCaseGuid": "138b6bcb-e30e-4475-8b5d-742aa85fbe1d",
+            "description": "",
+            "start": "2014-08-30T11:47:35+01:00",
+            "finish": "2014-08-30T11:50:56+01:00",
+            "comment": "",
+            "status": "To Do"
+        },
+        {
+            "path": "Test Cases/API/COMMON/GET/api_v1_completion-company-names",
+            "name": "api_v1_completion-company-names",
+            "testKey": "DCL-499",
+            "xrayID": "64859",
+            "link": "https://ifsalpha.atlassian.net/browse/DCL-499",
+            "testCaseGuid": "7813494d-bd90-49bb-a937-e90f26b363ee",
+            "description": "POST request",
+            "start": "2014-08-30T11:47:35+01:00",
+            "finish": "2014-08-30T11:50:56+01:00",
+            "comment": "",
+            "status": "To Do"
+        },
+        {
+            "path": "Test Cases/API/COMMON/GET/api_v1_scrap_url",
+            "name": "api_v1_scrap_url",
+            "testKey": "DCL-500",
+            "xrayID": "64860",
+            "link": "https://ifsalpha.atlassian.net/browse/DCL-500",
+            "testCaseGuid": "62eb9db0-df00-4cd4-8660-b4eedac060ad",
+            "description": "",
+            "start": "2014-08-30T11:47:35+01:00",
+            "finish": "2014-08-30T11:50:56+01:00",
+            "comment": "",
+            "status": "To Do"
+        },
+        {
+            "path": "Test Cases/API/COMMON/POST/api_v1_login",
+            "name": "api_v1_login",
+            "testKey": "DCL-501",
+            "xrayID": "64861",
+            "link": "https://ifsalpha.atlassian.net/browse/DCL-501",
+            "testCaseGuid": "ebdecf4d-7137-49b8-a160-c4c537e93dd2",
+            "description": "",
+            "start": "2014-08-30T11:47:35+01:00",
+            "finish": "2014-08-30T11:50:56+01:00",
+            "comment": "",
+            "status": "To Do"
+        },
+        {
+            "path": "Test Cases/API/FAQ/GET/api_v1_faq",
+            "name": "api_v1_faq",
+            "testKey": "DCL-502",
+            "xrayID": "64862",
+            "link": "https://ifsalpha.atlassian.net/browse/DCL-502",
+            "testCaseGuid": "fa384294-fb0a-4d01-8291-1957a24c3864",
+            "description": "Read ALL FAQ request",
+            "start": "2014-08-30T11:47:35+01:00",
+            "finish": "2014-08-30T11:50:56+01:00",
+            "comment": "",
+            "status": "To Do"
+        }
+    ],
+    "archives": [
+        
+    ]
+}

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>api_v1_login</name>
-   <tag>DCL-777</tag>
+   <name>Xray-Integration</name>
+   <tag></tag>
    <comment></comment>
-   <testCaseGuid>ebdecf4d-7137-49b8-a160-c4c537e93dd2</testCaseGuid>
+   <testCaseGuid>ae0900e0-ad70-455e-b3f0-c048a8184c60</testCaseGuid>
 </TestCaseEntity>

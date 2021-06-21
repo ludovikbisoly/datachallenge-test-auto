@@ -7,8 +7,8 @@
 TEST_PROJECT_NAME=datachallenge-test-auto
 
 HOME_DIRECTORY=~/workspace
-source ${HOME_DIRECTORY}/${TEST_PROJECT_NAME}/ci_config/project_settings.ini
-
+#source ${HOME_DIRECTORY}/${TEST_PROJECT_NAME}/ci_config/project_settings.ini
+export TEST_APIKEY="8af2e205-6a35-4819-8fb2-452c8f3c5604"
 
 #############################################################################
 #                        KATALON TESTSUITES EXECUTION                       #
