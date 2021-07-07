@@ -39,7 +39,9 @@ RequestObject request = new RestRequestObjectBuilder()
 
 	 .withMultipartFormDataBodyContent([
 
-		 new FormDataBodyParameter('email', 'ludovik.bisoly@ifsalpha.com', 'PARAM_TYPE_TEXT'),
+		 new FormDataBodyParameter('username', 'onlyuser', 'PARAM_TYPE_TEXT'),
+
+		 new FormDataBodyParameter('password', 'Poulponogo3',  'PARAM_TYPE_TEXT'),
 
 		])
 

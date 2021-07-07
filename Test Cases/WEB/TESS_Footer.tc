@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>api_v1_login</name>
+   <name>TESS_Footer</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ebdecf4d-7137-49b8-a160-c4c537e93dd2</testCaseGuid>
+   <testCaseGuid>c6bcd006-df78-4448-8b5b-2c110c6f1a3b</testCaseGuid>
 </TestCaseEntity>

@@ -15,26 +15,5 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.WebDriver
-import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
-import org.openqa.selenium.support.ui.WebDriverWait
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.By as By;
-import org.openqa.selenium.By.ByClassName
-import org.openqa.selenium.By.ById
-import org.openqa.selenium.WebElement as WebElement;
-import common.utilities
+import org.openqa.selenium.Keys as Keys
 
-//instance class for keyword
-my_use= new utilities()
-
-//Create instance of WebDriver
-WebDriver webdriver ;
-webdriver = DriverFactory.getWebDriver()
-
-
-WebUI.callTestCase(findTestCase('WEB/TESS_Login_In_Cas_Passant'), ["userName":GlobalVariable.username,"password":GlobalVariable.password], FailureHandling.STOP_ON_FAILURE)
-
-
-//Highlight button
-my_use.runhightlightById("assessment-button", webdriver, "res")

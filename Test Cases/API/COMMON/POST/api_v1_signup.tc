@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>api_v1_login</name>
+   <name>api_v1_signup</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ebdecf4d-7137-49b8-a160-c4c537e93dd2</testCaseGuid>
+   <testCaseGuid>c29c22b3-d582-4e4c-b02c-773906f5a708</testCaseGuid>
 </TestCaseEntity>

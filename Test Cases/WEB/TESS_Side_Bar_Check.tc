@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>api_v1_login</name>
+   <name>TESS_Side_Bar_Check</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ebdecf4d-7137-49b8-a160-c4c537e93dd2</testCaseGuid>
+   <testCaseGuid>9b20f354-19fa-46e0-ba4b-65987503f99a</testCaseGuid>
 </TestCaseEntity>
