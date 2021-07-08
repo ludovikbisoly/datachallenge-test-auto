@@ -39,7 +39,7 @@ RequestObject request = new RestRequestObjectBuilder()
 
 	 .withMultipartFormDataBodyContent([
 
-		 new FormDataBodyParameter('email', GlobalVariable.crypted_email + "@ifsalpha.com", 'PARAM_TYPE_TEXT'),
+		 new FormDataBodyParameter('email', GlobalVariable.crypted_email + "@ifsalpha;com", 'PARAM_TYPE_TEXT'),
 
 		])
 
@@ -51,8 +51,8 @@ String token = response.getResponseText().toString()
 
 System.out.println("token avant substring : " + token)
 
-//def tokenIncome = token.substring(18, token.indexOf(","))
+def tokenIncome = token.substring(18, token.indexOf(","))
 
-//GlobalVariable.token = tokenIncome.substring(0, tokenIncome.length()-1)
+GlobalVariable.token = tokenIncome.substring(0, tokenIncome.length()-1)
 
 System.out.println("token : " + GlobalVariable.token)
