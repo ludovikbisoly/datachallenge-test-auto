@@ -39,7 +39,7 @@ RequestObject request = new RestRequestObjectBuilder()
 
 	 .withMultipartFormDataBodyContent([
 
-		 new FormDataBodyParameter('email', GlobalVariable.crypted_email + "@ifsalpha;com", 'PARAM_TYPE_TEXT'),
+		 new FormDataBodyParameter('email', GlobalVariable.crypted_email + "@ifsalpha.com", 'PARAM_TYPE_TEXT'),
 
 		])
 
