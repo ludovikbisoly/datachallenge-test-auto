@@ -51,7 +51,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'B76E9CCB1B5A86CE 55DF4BB14 31E8'</initValue>
+      <initValue>'B76E9CCB1B5A86CE55DF4BB1431E8'</initValue>
       <name>crypted_email</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
